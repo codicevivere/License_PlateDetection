@@ -1,0 +1,1 @@
+/home/armughan/Desktop/sem5/dip/dip_project/new/Plate_detection/DataSet/models/model_svm_rbf_100_1.pickle
